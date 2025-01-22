@@ -37,6 +37,5 @@ We're co-organising a Workshop on <a href="https://sites.google.com/view/theory-
 &nbsp;
 &nbsp;
 
-## Grants
-- 2x RAEng UK IC Research Fellowships - £500,000
+
 
